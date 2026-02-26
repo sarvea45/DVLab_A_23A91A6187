@@ -1,6 +1,6 @@
 # DV Lab – Week 01B
-# Name:G.Rajesh
-# Roll No:23A91A6183
+# Name:K.Sarveswara Rao
+# Roll No:23A91A6187
 
 library(ggplot2)
 
