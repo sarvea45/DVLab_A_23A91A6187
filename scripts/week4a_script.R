@@ -58,7 +58,7 @@ ggplot(iris, aes(x = Species, y = Sepal.Length, fill = Species)) +
 
 # ggplot with Custom Color Palette
 ggplot(iris, aes(x = Species, y = Sepal.Length, fill = Species)) +
-  geom_boxplot() +
+  geom_boxplot() 
   scale_fill_manual(values = species_colors) +
   theme_minimal()
 
