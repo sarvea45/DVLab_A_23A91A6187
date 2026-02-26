@@ -37,7 +37,7 @@ ggplot(diamonds,aes(carat,price))+
 # Control Hexagon Density
 ggplot(diamonds,aes(carat,price))+
   geom_hex(bins=40)+
-  scale_fill_gradient(low="lightgreen",high="red")+
+  scale_fill_gradient(low="gold",high="red")+
   theme_minimal()
 
 # Color Meaning
